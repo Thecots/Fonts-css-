@@ -22,3 +22,5 @@ Reddit background
 ```sh
 #dae0e6
 ```
+
+document.createRange().createContextualFragment
