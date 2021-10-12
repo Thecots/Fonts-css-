@@ -1,6 +1,6 @@
 # GOOGLE FONTS LINK'S
 
-## ·Fonts :
+## ·Fonts:
 
 Montserrat
 ```sh
