@@ -25,7 +25,8 @@ Poppins
 
 Reddit background
 ```sh
-#dae0e6
+White #dae0e6
+Black #1a1b1c
 ```
 
 document.createRange().createContextualFragment
