@@ -30,3 +30,5 @@ Black #1a1b1c
 ```
 
 document.createRange().createContextualFragment
+
+convertir números -> new Intl.NumberFormat().format(12312215)
