@@ -27,6 +27,7 @@ Reddit background
 ```sh
 White #dae0e6 / #fafafa
 Black #1a1b1c
+#8400ff
 ```
 
 document.createRange().createContextualFragment
